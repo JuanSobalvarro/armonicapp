@@ -1,4 +1,5 @@
 __pycache__/
 main.build
 main.dist
+main.onefile-build
 .venv
