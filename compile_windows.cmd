@@ -1,0 +1,1 @@
+python -m nuitka --onefile --enable-plugin=tk-inter --windows-console-mode=disable main.py
